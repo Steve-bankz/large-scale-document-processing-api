@@ -1,0 +1,14 @@
+# Environment variables
+.env
+
+# Dependencies
+node_modules/
+
+# Uploaded files
+uploads/
+
+# Test files
+test-10mb.pdf
+test-large.bin
+test-over10mb.bin
+abort-uploads.js
